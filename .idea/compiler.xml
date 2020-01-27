@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.example.diddy.main" target="1.8" />
+      <module name="com.example.diddy.test" target="1.8" />
+      <module name="com.example.kotlin-monkey.main" target="1.8" />
+      <module name="com.example.kotlin-monkey.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
